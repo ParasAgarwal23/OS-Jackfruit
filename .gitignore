@@ -1,1 +1,25 @@
-solved
+# binaries
+engine
+cpu_hog
+io_pulse
+memory_hog
+
+# build files
+*.o
+*.ko
+*.mod
+*.cmd
+Module.symvers
+modules.order
+
+# root filesystems
+rootfs-*
+
+# logs
+logs/
+
+# tar files
+*.tar.gz
+
+# misc
+*.log
